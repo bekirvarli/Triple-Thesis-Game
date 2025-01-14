@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88396818a5f2712448711c0dab8b28e0, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  width: 7
+  height: 7
+  boardLayout: []
+  dots:
+  - {fileID: 8564706193507555829, guid: 4ff6a63646e1c3445ae70ea6ee0fb7ac, type: 3}
+  - {fileID: 1084762717710157665, guid: 2cb40a61c74e86f45aaf0e817fa3e5ca, type: 3}
+  - {fileID: 587202152642297711, guid: 543eceb7ab51d6c46a59d2a01fcaca4d, type: 3}
+  - {fileID: 1580429793483970090, guid: f8565419e53b1af4aa4785847d4f8303, type: 3}
+  - {fileID: 9169620523683279339, guid: 8e9b77d2c2f3c82448084b922577885f, type: 3}
+  scoreGoals: 3c000000960000002c010000
+  endGameRequirements:
+    gameType: 0
+    counterValue: 30
+  levelGoals:
+  - numberNeeded: 9
+    numberCollected: 10
+    goalSprite: {fileID: 21300000, guid: a51817b3a510ff24e8f44093e1ffd5c5, type: 3}
+    matchValue: jelly1

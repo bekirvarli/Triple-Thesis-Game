@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Puice Dot
+  - jelly1
+  - jelly2
+  - jelly3
+  - jelly4
+  - jelly5
+  - Color
+  - jelly6
+  - jelly6bomb
+  - Breakable
+  - Board
+  - Dark Green Dot
+  - Dot
+  - Green Dot
+  - Teal Dot
+  - Yellow Dot
+  - Salmon Dot
+  - Indigo Dot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 1701559851
+    locked: 0
